@@ -1,0 +1,3 @@
+#define	RADIO_POWER_SETTABLE		1
+
+#undef	RADIO_USE_LEDS
